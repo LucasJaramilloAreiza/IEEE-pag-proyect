@@ -1,0 +1,1 @@
+export const PaperDownload = () => { return <div>PaperDownload</div>; }
