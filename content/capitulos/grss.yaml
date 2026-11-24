@@ -1,0 +1,19 @@
+sigla: GRSS
+nombre: Geoscience and Remote Sensing Society (GRSS)
+tipo: capitulo
+area: ciencia
+activo: true
+orden: 50
+proposito: Analizamos datos de percepción remota y ciencias de la Tierra para monitorización medioambiental, desarrollo sostenible y análisis satelital.
+pilares:
+  - Percepción Remota
+  - GIS
+  - Análisis Satelital
+logoClaro: /images/logos/GRSS_Black.png
+logoOscuro: /images/logos/GRSS_White.png
+directiva:
+  - nombre: Diana Soto Romero
+    cargo: Chair
+  - nombre: Erika Upegui
+    cargo: Faculty Advisor
+correo: grss@ieee.udistrital.edu.co

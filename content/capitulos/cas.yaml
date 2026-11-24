@@ -1,0 +1,14 @@
+sigla: CAS
+nombre: Circuits and Systems Society (CAS)
+tipo: capitulo
+area: electronica
+activo: true
+orden: 20
+proposito: Nos enfocamos en el diseño, análisis y aplicación de circuitos integrados, microelectrónica y sistemas embebidos de código abierto.
+pilares:
+  - Microelectrónica
+  - Sistemas Embebidos
+  - Diseño de Circuitos
+logoClaro: /images/logos/CAS_Black.png
+logoOscuro: /images/logos/CAS_White.png
+correo: cas@ieee.udistrital.edu.co

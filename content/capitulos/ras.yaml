@@ -1,0 +1,17 @@
+sigla: RAS
+nombre: Robotics and Automation Society (RAS)
+tipo: capitulo
+area: computacion
+activo: true
+orden: 80
+proposito: Exploramos el diseño y control de sistemas robóticos autónomos, robótica social e inteligencia artificial para la automatización de procesos.
+pilares:
+  - Robótica Autónoma
+  - Automatización
+  - Inteligencia Artificial
+logoClaro: /images/logos/RAS_Black.png
+logoOscuro: /images/logos/RAS_White.png
+directiva:
+  - nombre: Helmut Chaparro Sandoval
+    cargo: Chair
+correo: ras@ieee.udistrital.edu.co

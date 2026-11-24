@@ -1,0 +1,47 @@
+titulo: MicroJam Competition – Primera edición (hackatón de hardware)
+tipo: HACKATHON
+fechaInicio: '2025-11-07'
+fechaFin: '2025-11-08'
+horario: 08:00 AM - 05:00 PM (-05) cada día
+lugar: Sede Ingeniería, Universidad Distrital Francisco José de Caldas, Bogotá D.C, Colombia
+resumen: Competencia intensiva de hardware de dos días que retó a equipos estudiantiles a conceptualizar, programar y ensamblar instrumentos creativos basados en microcontroladores con integración de sensores.
+imagen: /images/eventos/microjam-group.jpg
+galeria:
+  - /images/eventos/microjam-group.jpg
+  - /images/eventos/microjam-session.jpg
+vtools: https://events.vtools.ieee.org/m/548895
+capitulos:
+  - cas
+  - wie
+descripcion: La primera edición de la competencia MicroJam se inauguró oficialmente en la Universidad Distrital y presentó a la comunidad estudiantil un innovador reto de hardware de dos días. El 7 y 8 de noviembre de 2025, los equipos tuvieron el desafío de diseñar, programar y construir instrumentos únicos a partir de un microcontrolador central integrado con diversos sensores y componentes electrónicos, combinando creatividad, rigor técnico e ingeniería práctica.
+ejes: |-
+  Día 1 – Apertura, Lineamientos y Sesión Inicial de Desarrollo (07 nov 2025):
+
+  1. Presentación y objetivo del evento: El objetivo principal de la competencia fue diseñar y construir un instrumento creativo y único a partir de un microcontrolador central integrado con diversos sensores y los componentes electrónicos disponibles.
+
+  2. Lineamientos y criterios de evaluación: El primer día se dedicó a establecer el marco operativo de la competencia. El comité organizador explicó en detalle la dinámica del evento, las reglas técnicas y los criterios de evaluación específicos con los que se valorarían los prototipos finales.
+
+  3. Sesión inicial de desarrollo: Después de la presentación introductoria, comenzó la primera sesión práctica de desarrollo. Los participantes aprovecharon este tiempo para conceptualizar, ensamblar y programar sus instrumentos basados en microcontroladores, y sentaron una sólida base técnica para la competencia.
+impacto: |-
+  Día 2 – Sesión Final de Desarrollo, Evaluación y Premiación (08 nov 2025):
+
+  1. Sesión final de desarrollo y jurado docente: El segundo día comenzó con la presentación oficial del jurado académico, integrado por reconocidos profesores de la universidad. Los equipos participaron en la segunda y última sesión de trabajo para depurar fallas, ajustar el código y terminar el ensamblaje del hardware.
+
+  2. Presentación y evaluación de proyectos: Los participantes presentaron formalmente sus prototipos creativos ante el jurado. Los profesores evaluaron cada instrumento según su creatividad, funcionalidad e integración efectiva de sensores y componentes electrónicos.
+
+  3. Ceremonia de premiación y reconocimientos: El evento cerró con una ceremonia formal de premiación en la que el jurado anunció los proyectos ganadores y destacó las propuestas más innovadoras. Además, se hizo un reconocimiento especial a todos los participantes por su destreza técnica y dedicación.
+conclusion: La primera edición de MicroJam concluyó con un éxito rotundo, al promover la ingeniería práctica, la solución creativa de problemas y la participación técnica activa en la comunidad estudiantil de la Universidad Distrital.
+organizadores:
+  - Univ Distrital Francisco Jose De Caldas, CAS04
+  - Univ Distrital Francisco Jose De Cal, WIE
+  - Universidad Distrital Francisco Jose de Caldas
+etiquetas:
+  - WIE
+  - CAS
+  - casud
+  - colombia
+  - ieee-ud
+  - ieeeud
+  - microjam
+  - hardware
+  - hackathon

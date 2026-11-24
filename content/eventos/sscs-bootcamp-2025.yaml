@@ -1,0 +1,41 @@
+titulo: 'SSCS Bootcamp: diseño de circuitos integrados con herramientas de código abierto'
+tipo: WORKSHOP
+fechaInicio: '2025-12-05'
+fechaFin: '2025-12-06'
+horario: 05 dic 08:30 AM - 06 dic 12:00 PM (-05)
+lugar: Universidad del Quindío, Armenia / Bogotá D.C, Colombia
+resumen: Democratización de la microelectrónica mediante el diseño de chips RTL-to-GDSII con herramientas EDA de código abierto, organizado por IEEE SSCS Sección Colombia.
+imagen: /images/eventos/sscs-bootcamp-2025.jpg
+vtools: https://events.vtools.ieee.org/m/548933
+capitulos:
+  - cas
+descripcion: Una delegación especializada de la Rama Estudiantil IEEE Universidad Distrital participó en el "Bootcamp on Integrated Circuit Design using Open-Source Tools" (Bootcamp de diseño de circuitos integrados con herramientas de código abierto), organizado por la IEEE Solid-State Circuits Society (SSCS) Sección Colombia. Realizado en la Universidad del Quindío, en Armenia, este programa intensivo se enfocó en democratizar el diseño microelectrónico mediante sesiones teóricas y prácticas dirigidas por expertos de la industria.
+ejes: |-
+  Línea de diseño digital: flujo completo RTL-to-GDSII
+
+  Nuestros miembros participaron en la línea de diseño digital (Digital Design Track), que recorrió de principio a fin el proceso de diseño de un chip con herramientas EDA (Electronic Design Automation) de código abierto:
+
+  • Preparación y Metodología: Sesiones preparatorias virtuales enfocadas en modelado HDL y fundamentos de hardware abierto.
+  • Sesiones Prácticas: Talleres prácticos sobre síntesis digital, floorplanning, placement y routing.
+  • Herramientas de Código Abierto: Capacitación en herramientas libres para validación de circuitos y generación de layouts físicos (GDSII).
+impacto: |-
+  Impacto Técnico y Fortalecimiento en Microelectrónica
+
+  Esta experiencia les brindó a nuestros voluntarios habilidades poco comunes y valiosas en diseño de chips, un campo de importancia crítica para la industria de semiconductores.
+
+  Con su participación en este bootcamp, la rama sigue fortaleciendo su capacidad técnica en descripción avanzada de hardware, flujos de trabajo de silicio abierto e integración de sistemas digitales, y posiciona a nuestros miembros estudiantiles a la vanguardia de la formación en microelectrónica.
+conclusion: El SSCS Bootcamp 2025 consolidó el liderazgo técnico de la Rama Estudiantil IEEE Universidad Distrital en tecnologías emergentes de semiconductores y diseño de circuitos integrados abiertos, promoviendo la transferencia de conocimiento hacia la comunidad universitaria.
+organizadores:
+  - Universidad Distrital Francisco Jose de Caldas
+  - Univ Distrital Francisco Jose De Caldas, CAS04
+  - Francisco Jose De Caldas Distrital, ED15
+  - IEEE Solid-State Circuits Society (SSCS) Colombia
+etiquetas:
+  - CAS
+  - casud
+  - sscs
+  - ieee-ud
+  - ieeeud
+  - semiconductors
+  - chip-design
+  - eda-tools

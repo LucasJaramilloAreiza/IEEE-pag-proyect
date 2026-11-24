@@ -1,0 +1,20 @@
+sigla: PELS
+nombre: Power Electronics Society (PELS)
+tipo: capitulo
+area: energia
+activo: true
+orden: 60
+proposito: Promovemos el desarrollo y aplicación de la electrónica de potencia, conversión de energía y control de sistemas eléctricos.
+pilares:
+  - Electrónica de Potencia
+  - Energías Renovables
+  - Control de Motores
+logoClaro: /images/logos/PELS_Black.png
+logoOscuro: /images/logos/PELS_White.png
+directiva:
+  - nombre: Lucas Jaramillo Areiza
+    cargo: Chair
+  - nombre: Oscar Florez Cediel
+    cargo: Faculty Advisor
+correo: pels@ieee.udistrital.edu.co
+redSocial: https://www.instagram.com/pels.ud.ieee/

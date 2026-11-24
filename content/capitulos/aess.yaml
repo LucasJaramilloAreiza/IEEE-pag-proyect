@@ -1,0 +1,14 @@
+sigla: AESS
+nombre: Aerospace and Electronic Systems Society (AESS)
+tipo: capitulo
+area: electronica
+activo: true
+orden: 10
+proposito: Fomentamos la investigación y desarrollo en sistemas aeroespaciales, drones, y radares de alta tecnología para aplicaciones civiles y de defensa.
+pilares:
+  - Drones & UAVs
+  - Sistemas de Radar
+  - Telemetría
+logoClaro: /images/logos/AESS_Black.png
+logoOscuro: /images/logos/AESS_White.png
+correo: aess@ieee.udistrital.edu.co

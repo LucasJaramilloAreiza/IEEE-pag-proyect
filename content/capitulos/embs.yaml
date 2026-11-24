@@ -1,0 +1,14 @@
+sigla: EMBS
+nombre: Engineering in Medicine and Biology Society (EMBS)
+tipo: capitulo
+area: ciencia
+activo: true
+orden: 40
+proposito: Aplicamos conceptos de ingeniería y tecnología a la biología y la medicina para mejorar la atención médica y el bienestar de las personas.
+pilares:
+  - Biomédica
+  - Procesamiento de Señales
+  - Equipos Médicos
+logoClaro: /images/logos/EMBS_Black.png
+logoOscuro: /images/logos/EMBS_White.png
+correo: embs@ieee.udistrital.edu.co

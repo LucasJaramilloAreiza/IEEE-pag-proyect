@@ -1,0 +1,12 @@
+titulo: Robótica social e inteligencia artificial corporizada
+responsables: IEEE RAS & Grupo SinfonIA
+capitulo: ras
+icono: robot
+estado: Investigación activa
+descripcion: Desarrollo de algoritmos de navegación cinemática y visión por computador sobre plataformas humanoides avanzadas (Unitree G1, Pepper y NAO).
+etiquetas:
+  - Humanoides
+  - Visión Artificial
+  - Navegación
+  - IA Corporizada
+orden: 20
