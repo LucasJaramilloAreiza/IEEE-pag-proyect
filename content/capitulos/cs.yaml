@@ -1,0 +1,14 @@
+sigla: CS
+nombre: Computer Society (CS)
+tipo: capitulo
+area: computacion
+activo: true
+orden: 30
+proposito: Impulsamos el desarrollo de software, inteligencia artificial, arquitectura de computadoras y ciberseguridad a través de competencias y proyectos prácticos.
+pilares:
+  - Inteligencia Artificial
+  - Ciberseguridad
+  - Ingeniería de Software
+logoClaro: /images/logos/CS_Black.png
+logoOscuro: /images/logos/CS_White.png
+correo: cs@ieee.udistrital.edu.co

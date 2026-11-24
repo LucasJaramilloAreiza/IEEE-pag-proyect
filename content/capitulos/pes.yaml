@@ -1,0 +1,14 @@
+sigla: PES
+nombre: Power & Energy Society (PES)
+tipo: capitulo
+area: energia
+activo: true
+orden: 70
+proposito: Nos especializamos en el conocimiento de la energía eléctrica, desde la generación hasta la distribución, promoviendo tecnologías seguras y sostenibles.
+pilares:
+  - Redes Eléctricas
+  - Generación
+  - Energía Sostenible
+logoClaro: /images/logos/PES_Black.png
+logoOscuro: /images/logos/PES_White.png
+correo: pes@ieee.udistrital.edu.co

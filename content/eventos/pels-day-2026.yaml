@@ -1,0 +1,49 @@
+titulo: 'IEEE PELS Day 2026 - Taller: retos y oportunidades de la electrónica de potencia en Colombia'
+tipo: WORKSHOP
+fechaInicio: '2026-06-25'
+horario: 01:30 PM - 07:30 PM (-05)
+lugar: Edificio Mario Laserna (ML), Lab ML009, UniAndes, Bogotá
+resumen: Un puente entre la teoría y la industria a través de la manufactura práctica en electrónica de potencia, con el Bus ShowRoom de Siemens y Ectricol y el PCB Assembly Contest.
+imagen: /images/eventos/pels-day-2026-showroom.png
+galeria:
+  - /images/eventos/pels-day-2026-showroom.png
+  - /images/eventos/pels-day-2026-pcb.jpg
+vtools: https://events.vtools.ieee.org/m/569110
+calendario: https://events.vtools.ieee.org/event/569110/ical
+mapa: https://maps.app.goo.gl/2pDQW6sMDr2DSsJJA
+capitulos:
+  - pels
+descripcion: Como parte de la celebración global del IEEE PELS Day 2026, las unidades organizativas de la Universidad de los Andes y de la Universidad Distrital Francisco José de Caldas unieron esfuerzos con el aval institucional y el apoyo del Capítulo Profesional IEEE PELS Colombia. Esta colaboración hizo posible un evento nacional integral y de alto impacto. Mientras las conferencias magistrales estuvieron a cargo del Capítulo PELS Uniandes, la Rama Estudiantil de la Universidad Distrital lideró las experiencias interactivas y prácticas, y logró conectar la teoría académica con la manufactura electrónica y la industria.
+ejes: |-
+  Exhibición interactiva: Bus ShowRoom de Siemens y Ectricol
+
+  Para acercar a los estudiantes a tecnologías comerciales de última generación, se llevó al campus un laboratorio móvil de automatización industrial.
+
+  • Objetivo: Exponer a los asistentes a equipos industriales a escala real, facilitando el networking y la interacción directa con ingenieros de la industria.
+  • Ejecución: El Bus ShowRoom se ubicó estratégicamente frente al Edificio Mario Laserna. Recorridos guiados permitieron a los participantes interactuar con paneles de control, variadores de frecuencia, arrancadores suaves de estado sólido y sistemas de gestión de energía.
+  • Impacto: Rompió el esquema tradicional de conferencias, brindando una experiencia inmersiva y práctica que destacó las aplicaciones directas de la electrónica de potencia en el sector productivo colombiano.
+impacto: |-
+  Taller: diseño y ensamblaje de PCB de potencia
+
+  Espacio técnico donde los asistentes transitaron de la simulación teórica a la implementación en hardware físico.
+
+  • Objetivo: Fomentar habilidades de manufactura y soldadura electrónica en estudiantes de ingeniería, enfocándose en componentes críticos para sistemas de conversión de potencia.
+  • Ejecución: Realizado en la sesión de la tarde en el Laboratorio ML009. Los estudiantes trabajaron en una tarjeta de circuito impreso (PCB) pre-diseñada, completando el proceso integral de ensamblaje y soldadura.
+  • Componente Competitivo: Para incentivar la excelencia técnica, la sesión concluyó con el 'PCB Assembly Contest', evaluando calidad de soldadura, tiempo y funcionalidad del circuito.
+conclusion: |-
+  Participación y Articulación con IEEE PELS Colombia:
+  El éxito de estas iniciativas no habría sido posible sin la participación activa del Capítulo Profesional IEEE PELS Colombia, actuando como puente conector entre ramas estudiantiles y la industria profesional, apoyando la difusión a nivel nacional y promoviendo lineamientos globales adaptados a los retos de la ingeniería en el país.
+organizadores:
+  - Univ Distrital Francisco Jose De Caldas, PEL35
+  - Universidad de los Andes, PEL35
+  - IEEE Power Electronics Society
+etiquetas:
+  - pels
+  - pelsday2026
+  - powerelectronics
+  - pcb-assembly
+  - hands-on
+  - siemens
+  - ectricol
+  - uniandes
+  - ieeeud

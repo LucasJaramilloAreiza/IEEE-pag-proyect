@@ -1,0 +1,40 @@
+titulo: Visita técnica al laboratorio sinfonIA
+tipo: VISIT
+fechaInicio: '2025-10-04'
+horario: 02:00 PM - 04:00 PM (-05)
+lugar: Laboratorio Colibrí, Cra 1 Nº 18A-12, Bogotá D.C, Colombia
+resumen: Visita técnica del Capítulo IEEE RAS al laboratorio Colibrí y al grupo de investigación SinfonIA para conocer de cerca la robótica social, la IA corporizada y las plataformas humanoides Unitree G1, Pepper y NAO.
+imagen: /images/eventos/sinfonia-lab-visit.png
+vtools: https://events.vtools.ieee.org/m/523486
+capitulos:
+  - ras
+descripcion: Visita técnica del Capítulo IEEE Robotics and Automation Society (RAS) de la Universidad Distrital al laboratorio Colibrí, donde los miembros se conectaron con el grupo SinfonIA, un equipo de investigación líder en robótica social e inteligencia artificial. Compartimos un espacio recreativo y técnico para conocer robots humanoides de vanguardia que ya habíamos visto antes, como el Unitree G1, Pepper y NAO, con el fin de que los voluntarios del capítulo se familiarizaran más con la robótica y la automatización.
+ejes: |-
+  Robots humanoides y plataformas de IA corporizada: Unitree G1, Pepper y NAO
+
+  Durante la sesión interactiva, los voluntarios estudiantiles exploraron plataformas de última generación en robótica social y sistemas autónomos:
+
+  • Unitree G1: Plataforma humanoide bípeda diseñada para locomoción dinámica ágil, control del equilibrio e inteligencia corporizada avanzada.
+  • Pepper: Robot humanoide de interacción social con percepción multidireccional, reconocimiento facial y capacidades conversacionales.
+  • NAO: Robot bípedo de alta precisión utilizado en todo el mundo para investigación en cinemática, visión por computador y rutinas de comportamiento autónomo.
+impacto: |-
+  Democratización de la robótica avanzada y sinergia interinstitucional
+
+  Esta visita les permitió a nuestros voluntarios tener contacto práctico con robótica humanoide funcional, lo que despertó nuevas ideas para proyectos del capítulo y fortaleció la colaboración con laboratorios de investigación especializados en Bogotá.
+
+  Al conocer de cerca estas tecnologías, los voluntarios de RAS UD refuerzan sus habilidades en control de robots, visión por computador e interacción humano-robot.
+conclusion: La visita al laboratorio sinfonIA representó un inspirador acercamiento a la frontera tecnológica de la robótica humanoide e inteligencia artificial para el Capítulo IEEE RAS UD, consolidando su entusiasmo y preparación técnica hacia nuevos desafíos de automatización.
+organizadores:
+  - Francisco Jose De Caldas Distrital, RA24
+  - Universidad Distrital Francisco Jose de Caldas
+etiquetas:
+  - ieee-ud
+  - ieeeud
+  - artificial-intelligence
+  - rasud
+  - rasudfjc
+  - automation
+  - robotics
+  - robots
+  - IA
+  - sinfonIA

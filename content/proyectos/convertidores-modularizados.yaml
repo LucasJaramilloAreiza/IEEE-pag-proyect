@@ -1,0 +1,12 @@
+titulo: Convertidores modularizados de electrónica de potencia
+responsables: IEEE PELS
+capitulo: pels
+icono: energia
+estado: Prototipo validado
+descripcion: Diseño, manufactura de tarjetas PCB y ensamblaje de módulos industriales para control de motores y eficiencia energética en microrredes.
+etiquetas:
+  - PCB Assembly
+  - Power Electronics
+  - Microrredes
+  - Siemens & Ectricol
+orden: 30

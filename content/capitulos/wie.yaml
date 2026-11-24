@@ -1,0 +1,14 @@
+sigla: WIE
+nombre: Women in Engineering (WIE)
+tipo: afinidad
+area: comunidad
+activo: true
+orden: 90
+proposito: Empoderamos e inspiramos a mujeres y niñas a seguir intereses profesionales en ingeniería y ciencias, fomentando la diversidad en STEM.
+pilares:
+  - Liderazgo Femenino
+  - Equidad en STEM
+  - Mentoría
+logoClaro: /images/logos/WIE_Black.png
+logoOscuro: /images/logos/WIE_White.png
+correo: wie@ieee.udistrital.edu.co

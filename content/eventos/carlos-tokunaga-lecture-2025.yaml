@@ -1,0 +1,35 @@
+titulo: 'Conferencia técnica: circuitos integrados avanzados con Carlos Tokunaga'
+tipo: CONFERENCE
+fechaInicio: '2025-09-25'
+horario: 09:00 AM - 10:00 AM (-05)
+lugar: Bogotá D.C, Colombia
+resumen: Conferencia técnica exclusiva con el Dr. Carlos Tokunaga sobre avances en diseño de circuitos, eficiencia energética de microprocesadores y escalamiento de dispositivos electrónicos.
+imagen: /images/eventos/carlos-tokunaga-lecture.jpg
+vtools: https://events.vtools.ieee.org/m/548881
+capitulos:
+  - cas
+descripcion: Los Capítulos Estudiantiles IEEE CAS y EDS coorganizaron una conferencia técnica exclusiva con el Dr. Carlos Tokunaga, destacado experto en circuitos integrados y tecnología de semiconductores. La sesión se centró en los avances más recientes en diseño de circuitos, la eficiencia energética de los microprocesadores y el futuro de los dispositivos electrónicos en la industria.
+ejes: |-
+  Ley de Moore, escalamiento de circuitos y arquitecturas futuras de semiconductores
+
+  Los participantes tuvieron la oportunidad de profundizar en los retos físicos del escalamiento y en la integración de nuevos materiales en la fabricación moderna de chips. El Dr. Tokunaga presentó la trayectoria de los avances en semiconductores, analizó lo que han hecho posible 50 años de la Ley de Moore y las innovaciones arquitectónicas que impulsan la eficiencia energética de los microprocesadores actuales.
+impacto: |-
+  Ingeniería multidisciplinaria y perspectiva industrial
+
+  Este evento les ofreció a estudiantes y docentes una visión de primera mano de la industria global de semiconductores, y conectó la física teórica del estado sólido con sus aplicaciones industriales prácticas.
+
+  La colaboración entre CAS y EDS resaltó la importancia de un enfoque multidisciplinario del diseño electrónico dentro de nuestra Rama Estudiantil.
+conclusion: La ponencia magistral del Dr. Carlos Tokunaga impulsó el conocimiento de vanguardia en microelectrónica entre nuestros estudiantes e investigadores, reafirmando el compromiso de la Rama Estudiantil IEEE UD con la excelencia técnica internacional.
+organizadores:
+  - Universidad Distrital Francisco Jose de Caldas
+  - Univ Distrital Francisco Jose De Caldas, CAS04
+  - Francisco Jose De Caldas Distrital, ED15
+etiquetas:
+  - CAS
+  - EDS
+  - ieee-ud
+  - ieeeud
+  - circuits
+  - semiconductors
+  - microelectronics
+  - moores-law

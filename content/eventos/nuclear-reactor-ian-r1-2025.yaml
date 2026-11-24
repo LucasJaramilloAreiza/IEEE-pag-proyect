@@ -1,0 +1,40 @@
+titulo: Visita técnica al reactor nuclear IAN-R1
+tipo: VISIT
+fechaInicio: '2025-08-01'
+horario: 11:00 AM - 12:30 PM (-05)
+lugar: Sede CAN, Servicio Geológico Colombiano, Bogotá D.C., Colombia
+resumen: Visita técnica del Capítulo IEEE PES al reactor nuclear IAN-R1 del Servicio Geológico Colombiano para conocer los principios de la energía nuclear, sus aplicaciones en investigación y los protocolos de seguridad radiológica.
+imagen: /images/eventos/nuclear-reactor-ian-r1.png
+vtools: https://events.vtools.ieee.org/m/495915
+capitulos:
+  - pes
+descripcion: El 1 de agosto de 2025, el Capítulo IEEE PES realizó una visita técnica al reactor nuclear IAN-R1, ubicado en la sede CAN del Servicio Geológico Colombiano en Bogotá. Durante la jornada, los participantes asistieron a una charla introductoria sobre los principios de la energía nuclear, la historia y evolución del reactor IAN-R1 en Colombia y sus aplicaciones en la investigación científica.
+ejes: |-
+  Operación del reactor, seguridad nuclear y protocolos radiológicos
+
+  Después de la presentación, los asistentes hicieron un amplio recorrido guiado por las instalaciones, en el que aprendieron directamente de los ingenieros de la instalación sobre:
+
+  • Dinámica de operación del reactor, monitoreo del núcleo y aplicaciones del flujo de neutrones.
+  • Sistemas avanzados de seguridad y apagado con redundancia múltiple.
+  • Ciclo del combustible nuclear y manejo de material radiactivo.
+  • Estrictos protocolos de seguridad radiológica, monitoreo dosimétrico y protección radiológica.
+impacto: |-
+  Conectar la teoría con tecnología real de alto impacto
+
+  La visita les permitió a los estudiantes conectar el conocimiento teórico con aplicaciones reales, resolver dudas técnicas sobre la energía nuclear y ampliar su comprensión del potencial tecnológico del sector de la energía nuclear y la investigación científica.
+
+  Fue una valiosa oportunidad para reforzar el compromiso del capítulo con la formación técnica avanzada y fortalecer las relaciones con instituciones de investigación líderes en Colombia.
+conclusion: La visita técnica al Reactor Nuclear IAN-R1 consolidó el compromiso de IEEE PES UD con la formación energética integral de sus futuros ingenieros, posicionando a la Rama como pionera en experiencias académicas de alto impacto en tecnologías de generación y física nuclear.
+organizadores:
+  - Univ Distrital Francisco Jose de Caldas, PE31
+  - Universidad Distrital Francisco Jose de Caldas
+etiquetas:
+  - ieee
+  - ieeeud
+  - pesud
+  - power4future
+  - nuclear
+  - energy
+  - education
+  - safety
+  - history

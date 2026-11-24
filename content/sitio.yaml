@@ -1,0 +1,34 @@
+instagram: https://www.instagram.com/ieee.ud/
+linkedin: https://www.linkedin.com/company/ieee-ud/
+heroFotos:
+  - /images/eventos/microjam-group.jpg
+  - /images/eventos/pels-day-2026-pcb.jpg
+  - /images/eventos/sinfonia-lab-visit.png
+eventoDestacado: pels-day-2026
+estadisticas:
+  - valor: 18+
+    etiqueta: Capítulos y grupos de afinidad
+  - valor: 3×
+    etiqueta: Rama Ejemplar Región 9
+  - valor: 160+
+    etiqueta: Países en la red IEEE
+reconocimientos:
+  - titulo: Rama Ejemplar
+    detalle: Región 9 · 2019, 2016, 2013
+  - titulo: Darrel Chong Award
+    detalle: Silver · 2017 y 2013
+  - titulo: Website Contest
+    detalle: 1.er lugar LATAM · 2009
+  - titulo: Casos de Éxito
+    detalle: Sección Colombia
+faq:
+  - pregunta: ¿Quién puede unirse a la Rama?
+    respuesta: 'Cualquier estudiante de la Universidad Distrital, de cualquier carrera. No necesitas ser de eléctrica o electrónica: hay espacio para software, biomédica, ciencias de la Tierra, energía y mucho más.'
+  - pregunta: ¿Tengo que pagar para participar?
+    respuesta: No para empezar. Puedes asistir a eventos abiertos y ser voluntario sin ser miembro. La membresía IEEE es opcional, tiene una cuota anual que fija IEEE y te da beneficios globales como IEEE Xplore.
+  - pregunta: ¿Cómo me hago miembro IEEE?
+    respuesta: Creas tu cuenta en ieee.org, eliges la membresía estudiantil y seleccionas la Rama de la Universidad Distrital (STB04331). Después puedes sumar los capítulos técnicos que te interesen.
+  - pregunta: ¿Puedo estar en varios capítulos a la vez?
+    respuesta: Sí. Puedes añadir varias sociedades técnicas a tu membresía y participar en las actividades de cada capítulo.
+  - pregunta: ¿Cómo participo como voluntario?
+    respuesta: Escríbenos o acércate a la mesa directiva o a un capítulo. Siempre buscamos manos para logística, diseño, comunicaciones y proyectos técnicos.
