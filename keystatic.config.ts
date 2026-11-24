@@ -6,7 +6,11 @@ import { collection, config, fields, singleton } from "@keystatic/core";
  * - GitHub: define NEXT_PUBLIC_KEYSTATIC_STORAGE=github en el hosting para
  *   editar desde la web; cada cambio se guarda como un commit en el repositorio.
  */
-const useGithub = process.env.NEXT_PUBLIC_KEYSTATIC_STORAGE === "github";
+export const useGithub =
+  process.env.NEXT_PUBLIC_KEYSTATIC_STORAGE === "github" || Boolean(process.env.NEXT_PUBLIC_KEYSTATIC_GITHUB_APP_SLUG);
+
+/** El panel existe en desarrollo, o en producción solo si está conectado a GitHub (requiere iniciar sesión). */
+export const panelDisponible = process.env.NODE_ENV === "development" || useGithub;
 
 const AREAS = [
   { label: "Energía y Potencia", value: "energia" },

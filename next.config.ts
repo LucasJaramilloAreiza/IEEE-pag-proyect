@@ -1,6 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  // Keystatic en modo GitHub redirige a 127.0.0.1 (requisito de OAuth); permitirlo en desarrollo.
+  allowedDevOrigins: ["127.0.0.1"],
   images: {
     remotePatterns: [{ protocol: "https", hostname: "api.dicebear.com" }],
   },
